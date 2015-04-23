@@ -1,0 +1,46 @@
+.logo {
+  width: 150px;
+}
+
+#tf-menu > div > div.navbar-header > a {
+  padding: 5px 15px;
+}
+
+#tf-home {
+  background: url("../img/plank.jpg");
+}
+
+.sign-up-top {
+  font-size: 20px;
+  border-radius: 100px;
+  padding: 10px 30px;
+}
+
+#tf-home > div > div > a {
+  margin-top: 150px;
+}
+
+#tf-team {
+  background: url("../img/03.png");
+  background-repeat: none;
+  background-size: cover;
+}
+
+#mc-embedded-subscribe {
+  margin: 0 auto;
+  margin-top: 20px;
+}
+
+.subscribe-button {
+  font-size: 20px;
+  border-radius: 100px;
+  padding: 10px 30px;
+  margin: 0;
+}
+
+.subscribe-input {
+  border-radius: 0;
+  font-size: 20px;
+  height: 54px;
+  margin: 10px 0;
+}
