@@ -8,13 +8,15 @@
 
 #tf-home {
   background: url("../img/plank.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
 }
 
 #tf-home .content {
   padding: 18% 0 0;
-}back
+}
 
-.sign-up-top {
+button.sign-up-top {
   font-size: 20px;
   border-radius: 100px;
   padding: 10px 30px;
@@ -29,7 +31,7 @@
   background-color: #FFCC80;
   color: #FFFFFF;
   background: url("../img/how-it-works-background.png");
-  background-repeat: none;
+  background-repeat: no-repeat;
   background-size: cover;
 }
 
@@ -51,7 +53,7 @@
 /* Sign up form */
 #tf-contact {
   /*background: url("../img/03.png");
-  background-repeat: none;
+  background-repeat: no-repeat;
   background-size: cover;*/
 }
 
