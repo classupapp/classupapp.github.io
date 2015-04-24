@@ -20,7 +20,28 @@
   margin-top: 150px;
 }
 
-#tf-team {
+#tf-how-it-works {
+  padding: 50px 0 30px;
+  background-color: #FFCC80;
+  color: #5d5d5d;
+}
+
+.steps-explained {
+  margin-bottom: 50px;
+}
+
+.how-it-works-icon {
+  height: 150px;
+  margin-bottom: 20px;
+}
+
+.instructions {
+  padding: 0 20px;
+  margin-bottom: 50px;
+}
+
+/* Sign up form */
+#tf-contact {
   background: url("../img/03.png");
   background-repeat: none;
   background-size: cover;
