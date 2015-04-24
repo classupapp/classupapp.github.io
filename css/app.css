@@ -34,6 +34,21 @@ button.sign-up-top {
   margin-top: 100px;
 }
 
+/* Why ClassUp */
+#tf-why-classup {
+  padding: 50px 0 30px;
+  background-color: #e2e2e2;
+  color: #5d5d5d;
+}
+.joining-reasons {
+  color: #5d5d5d;
+}
+
+/* App ScreenShot */
+.app-screenshot {
+  width: 80%;
+  margin: 0 auto;
+}
 
 #tf-how-it-works {
   padding: 50px 0 30px;
@@ -48,6 +63,7 @@ button.sign-up-top {
   margin-bottom: 50px;
 }
 
+.why-classup-icon,
 .how-it-works-icon {
   height: 150px;
   margin-bottom: 20px;
@@ -57,6 +73,10 @@ button.sign-up-top {
   padding: 0 20px;
   margin-bottom: 50px;
   color: #FFFFFF;
+}
+
+.how-does-it-work-sign-up {
+  margin-bottom: 50px;
 }
 
 #mc-embedded-subscribe {
