@@ -10,6 +10,10 @@
   background: url("../img/plank.jpg");
 }
 
+#tf-home .content {
+  padding: 18% 0 0;
+}back
+
 .sign-up-top {
   font-size: 20px;
   border-radius: 100px;
@@ -23,7 +27,10 @@
 #tf-how-it-works {
   padding: 50px 0 30px;
   background-color: #FFCC80;
-  color: #5d5d5d;
+  color: #FFFFFF;
+  background: url("../img/how-it-works-background.png");
+  background-repeat: none;
+  background-size: cover;
 }
 
 .steps-explained {
@@ -38,13 +45,14 @@
 .instructions {
   padding: 0 20px;
   margin-bottom: 50px;
+  color: #FFFFFF;
 }
 
 /* Sign up form */
 #tf-contact {
-  background: url("../img/03.png");
+  /*background: url("../img/03.png");
   background-repeat: none;
-  background-size: cover;
+  background-size: cover;*/
 }
 
 #mc-embedded-subscribe {
@@ -59,7 +67,7 @@
   margin: 0;
 }
 
-.subscribe-input {
+#tf-contact .form-control {
   border-radius: 0;
   font-size: 20px;
   height: 54px;
