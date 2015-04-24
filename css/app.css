@@ -2,6 +2,14 @@
   width: 150px;
 }
 
+h2 {
+  line-height: 28px;
+}
+
+.col-md-6 {
+  margin-bottom: 30px;
+}
+
 #tf-menu > div > div.navbar-header > a {
   padding: 5px 15px;
 }
@@ -13,7 +21,7 @@
 }
 
 #tf-home .content {
-  padding: 18% 0 0;
+  padding: 150px 0 50px;
 }
 
 button.sign-up-top {
@@ -23,7 +31,7 @@ button.sign-up-top {
 }
 
 #tf-home > div > div > a {
-  margin-top: 150px;
+  margin-top: 100px;
 }
 
 #tf-how-it-works {
