@@ -52,12 +52,20 @@ button.sign-up-top {
 ============================================*/
 #tf-why-classup {
   padding: 50px 0 30px;
-  background-color: #FFFFFF;
+  background-color: #EDEDED;
   color: #5d5d5d;
 }
 .joining-reasons {
   padding: 0 20px;
   color: #5d5d5d;
+}
+
+
+/* About Us Section
+============================================*/
+.app-screenshot {
+  width: 80%;
+  margin: 0 auto;
 }
 
 
@@ -78,14 +86,6 @@ button.sign-up-top {
 }
 .how-does-it-work-sign-up {
   margin-bottom: 50px;
-}
-
-
-/* About Us Section
-============================================*/
-.app-screenshot {
-  width: 80%;
-  margin: 0 auto;
 }
 
 
