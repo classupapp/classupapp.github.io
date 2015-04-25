@@ -32,12 +32,12 @@ h2 {
 ============================================*/
 #tf-home {
   background: url("../img/home/background.png");
-  background-repeat: no-repeat;
-  background-attachment: fixed;
   background-size: cover;
   -o-background-size: cover;
   -moz-background-size: cover;
   -webkit-background-size: cover;
+  background-repeat: no-repeat;
+  background-attachment: fixed;
 }
 #tf-home .content {
   padding: 150px 0 50px;
@@ -80,13 +80,13 @@ button.sign-up-top {
   background-color: #FFCC80;
   color: #FFFFFF;
   background: url("../img/how-it-works/background.png");
-  background-repeat: no-repeat;
-  background-position: center;
-  background-attachment: fixed;
   background-size: cover;
   -o-background-size: cover;
   -moz-background-size: cover;
   -webkit-background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center;
+  background-attachment: fixed;
 }
 .instructions {
   padding: 0 20px;
