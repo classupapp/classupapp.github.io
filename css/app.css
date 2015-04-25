@@ -78,6 +78,8 @@ button.sign-up-top {
   background: url("../img/how-it-works/background.png");
   background-repeat: no-repeat;
   background-size: cover;
+  background-position: center;
+  background-attachment: fixed;
 }
 .instructions {
   padding: 0 20px;
