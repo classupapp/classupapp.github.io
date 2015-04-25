@@ -1,12 +1,25 @@
+/* Page Setup - Icons - Section Display
+============================================*/
 h2 {
   line-height: 28px;
 }
 .col-md-6 {
   margin-bottom: 30px;
 }
+.why-classup-icon,
+.how-it-works-icon,
+.awards-affiliates-icon {
+  max-width: 90%;
+  max-height: 150px;
+  margin-bottom: 20px;
+}
+.steps-explained {
+  margin-bottom: 50px;
+}
 
 
-/* logo */
+/* Navbar Logo
+============================================*/
 .logo {
   width: 150px;
 }
@@ -14,9 +27,11 @@ h2 {
   padding: 5px 15px;
 }
 
-/* Intro section */
+
+/* Home Section
+============================================*/
 #tf-home {
-  background: url("../img/plank.jpg");
+  background: url("../img/home/background.jpg");
   background-repeat: no-repeat;
   background-size: cover;
 }
@@ -28,16 +43,16 @@ button.sign-up-top {
   border-radius: 100px;
   padding: 10px 30px;
 }
-
-/* Down arrow icon */
 #tf-home > div > div > a {
   margin-top: 100px;
 }
 
-/* Why ClassUp */
+
+/* Why ClassUp
+============================================*/
 #tf-why-classup {
   padding: 50px 0 30px;
-  background-color: #EDEDED;
+  background-color: #FFFFFF;
   color: #5d5d5d;
 }
 .joining-reasons {
@@ -45,54 +60,55 @@ button.sign-up-top {
   color: #5d5d5d;
 }
 
-/* App ScreenShot */
-.app-screenshot {
-  width: 80%;
-  margin: 0 auto;
-}
 
+/* How it Works Section
+============================================*/
 #tf-how-it-works {
   padding: 50px 0 30px;
   background-color: #FFCC80;
   color: #FFFFFF;
-  background: url("../img/how-it-works-background.png");
+  background: url("../img/how-it-works/background.png");
   background-repeat: no-repeat;
   background-size: cover;
 }
-
-.steps-explained {
-  margin-bottom: 50px;
-}
-
-.why-classup-icon,
-.how-it-works-icon {
-  height: 150px;
-  margin-bottom: 20px;
-}
-
-
 .instructions {
   padding: 0 20px;
   margin-bottom: 50px;
   color: #FFFFFF;
 }
-
 .how-does-it-work-sign-up {
   margin-bottom: 50px;
 }
 
+
+/* About Us Section
+============================================*/
+.app-screenshot {
+  width: 80%;
+  margin: 0 auto;
+}
+
+
+/* Awards & Affiliate Section
+============================================*/
+#tf-awards-affiliate {
+  padding: 50px 0 30px;
+  background-color: #EDEDED;
+  color: #5d5d5d;
+}
+
+/* Contact Section
+============================================*/
 #mc-embedded-subscribe {
   margin: 0 auto;
   margin-top: 20px;
 }
-
 .subscribe-button {
   font-size: 20px;
   border-radius: 100px;
   padding: 10px 30px;
   margin: 0;
 }
-
 #tf-contact .form-control {
   border-radius: 0;
   font-size: 20px;
